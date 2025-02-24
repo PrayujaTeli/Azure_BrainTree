@@ -16,7 +16,7 @@
    - Applied **window functions (`RANK()`, `ROW_NUMBER()`)** for ranking data within partitions.  
 
 3. **Data Setup & Import**  
-   - Created tables and inserted data manually using **Azure Data Studio**.  
+   - Created tables and inserted data using sql server query into **Azure Data Studio**.  
    - Data can also be imported using the **Azure Import Wizard** for bulk uploads.  
    - If using **Docker**, ensured that files were copied from the local machine into the container before importing them into SQL Server. The following command was used to copy files into the container:  
      ```bash
