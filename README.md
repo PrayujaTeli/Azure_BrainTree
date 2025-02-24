@@ -24,10 +24,6 @@
      ```
    - Once copied, data could be imported into SQL Server from within the container.  
 
-4. **Optimization & Validation**  
-   - Ensured queries were structured for performance and **handled edge cases**.  
-   - Verified results using test cases in **Azure Data Studio**.  
-
 ## **Key Learnings**  
 - Efficient use of **window functions** for ranking within partitions.  
 - Handling **NULL values** and **data filtering** for accurate results.  
