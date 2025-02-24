@@ -27,4 +27,7 @@
 ## **Key Learnings**  
 - Efficient use of **window functions** for ranking within partitions.  
 - Handling **NULL values** and **data filtering** for accurate results.  
-- Structuring queries for **readability and scalability**.  
+- Structuring queries for **readability and scalability**.
+  
+<img width="1050" alt="Screenshot 2025-02-24 at 2 24 57 PM" src="https://github.com/user-attachments/assets/e76cbd35-69a8-4cc6-bf84-dcb82f00f1ad" />
+
